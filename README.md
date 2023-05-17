@@ -7,7 +7,7 @@ Foi utilizado o conjunto de dados da plataforma Kaggle disponível em: https://w
 
 ## Objetivos Gerais
 
-O objetivo princial é a detecção transações suspeitas que possam ser classificadas como fraude.
+O objetivo principal é a detecção transações suspeitas que possam ser classificadas como fraude.
 
 ## Objetivos específicos
 
